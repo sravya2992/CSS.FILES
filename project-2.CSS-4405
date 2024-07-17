@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>My First website</title>
+        <Link rel="stylesheet"href="mystyles.css">
+    </head>
+    <body>
+        <h1>welcome to my website</h1>
+        <ul>
+            <li> <a href=".\Home.html">Home</a></li>
+            <li> <a href=".\About.html">About</a></li>
+            <li> <a href=".\contact us.html">contact</a></li>
+            <li> <a href=".\registartion.html">registartion</a></li>
+            <li> <a href=".\LOGIN.HTML">login</a></li>
+        </ul>
+    </body>
+</html>
